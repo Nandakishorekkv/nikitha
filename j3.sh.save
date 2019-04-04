@@ -1,0 +1,6 @@
+#!/bin/bash
+u="user"
+p="ppp"
+echo "USERNAME"
+read us
+echo "P
