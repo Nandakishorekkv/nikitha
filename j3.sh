@@ -1,7 +1,7 @@
 #!/bin/bash
 u="user"
 p="ppp"
-echo "USERNAME"
+echo "USER"
 read us
 echo "PASSWORD"
 read ps
