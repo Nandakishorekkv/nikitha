@@ -1,9 +1,9 @@
 #!/bin/bash
 if [ $# = 2 ]
 then
-echo "The no of arguments is correct"
+echo "The no of arguments correct"
 else
-echo "The no of arguments is incorrect"
+echo "The no of arguments  incorrect"
 fi
 if [ $1 ]
 then
